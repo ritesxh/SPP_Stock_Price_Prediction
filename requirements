@@ -1,0 +1,29 @@
+/* 
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+keras
+plotly
+dash
+*/
+
+
+Explanation of Requirements
+
+    pandas: For data manipulation and handling CSV files.
+    numpy: For numerical operations and array manipulation.
+    matplotlib: For data visualization (plotting the stock price history).
+    scikit-learn: For data preprocessing (MinMaxScaler).
+    tensorflow: Provides the backend for Keras (required for running deep learning models).
+    keras: For building and training the LSTM model.
+    plotly: For advanced visualization (needed when building the Plotly Dash dashboard).
+    dash: For creating the interactive dashboard.
+
+
+Installation Instructions
+To install all dependencies, create a requirements.txt file with the contents above and run:
+/* pip install -r requirements.txt */
+
+This will install all the packages required for running the stock price prediction model and preparing the dashboard. Let me know if you'd like further customization!
